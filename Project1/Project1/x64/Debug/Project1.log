@@ -1,0 +1,22 @@
+﻿  Project2.cpp
+C:\Users\Lenovo\source\repos\Project1\Project1\Project2.cpp(95,65): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Lenovo\source\repos\Project1\Project1\Project2.cpp(95,65): warning C4244:         with
+C:\Users\Lenovo\source\repos\Project1\Project1\Project2.cpp(95,65): warning C4244:         [
+C:\Users\Lenovo\source\repos\Project1\Project1\Project2.cpp(95,65): warning C4244:             T=unsigned int
+C:\Users\Lenovo\source\repos\Project1\Project1\Project2.cpp(95,65): warning C4244:         ]
+C:\Users\Lenovo\source\repos\Project1\Project1\Project2.cpp(95,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Lenovo\source\repos\Project1\Project1\Project2.cpp(95,45): warning C4244:         with
+C:\Users\Lenovo\source\repos\Project1\Project1\Project2.cpp(95,45): warning C4244:         [
+C:\Users\Lenovo\source\repos\Project1\Project1\Project2.cpp(95,45): warning C4244:             T=unsigned int
+C:\Users\Lenovo\source\repos\Project1\Project1\Project2.cpp(95,45): warning C4244:         ]
+C:\Users\Lenovo\source\repos\Project1\Project1\Project2.cpp(129,105): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Lenovo\source\repos\Project1\Project1\Project2.cpp(129,105): warning C4244:         with
+C:\Users\Lenovo\source\repos\Project1\Project1\Project2.cpp(129,105): warning C4244:         [
+C:\Users\Lenovo\source\repos\Project1\Project1\Project2.cpp(129,105): warning C4244:             T=float
+C:\Users\Lenovo\source\repos\Project1\Project1\Project2.cpp(129,105): warning C4244:         ]
+C:\Users\Lenovo\source\repos\Project1\Project1\Project2.cpp(129,68): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Lenovo\source\repos\Project1\Project1\Project2.cpp(129,68): warning C4244:         with
+C:\Users\Lenovo\source\repos\Project1\Project1\Project2.cpp(129,68): warning C4244:         [
+C:\Users\Lenovo\source\repos\Project1\Project1\Project2.cpp(129,68): warning C4244:             T=float
+C:\Users\Lenovo\source\repos\Project1\Project1\Project2.cpp(129,68): warning C4244:         ]
+  Project1.vcxproj -> C:\Users\Lenovo\source\repos\Project1\x64\Debug\Project1.exe
